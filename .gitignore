@@ -1,0 +1,4 @@
+# Ignorar todo el contenido de la carpeta certs
+certs/*
+# Incluir un archivo vacío para conservar la carpeta
+!certs/.gitkeep
